@@ -10,38 +10,38 @@ export const Category=[
     {
         id:1,
         name:'ALL',
-        icon: <TiThSmall className="w-[60px] h-[60px] text-green-600"/>
+        icon: <TiThSmall className="w-[50px] h-[50px] text-green-600"/>
     },
      {
         id:2,
         name:'Breakfast',
-        icon: <MdFreeBreakfast className="w-[60px] h-[60px] text-green-600" />
+        icon: <MdFreeBreakfast className="w-[50px] h-[50px] text-green-600" />
     },
      {
         id:3,
         name:'Soups',
-        icon: <LuSoup className="w-[60px] h-[60px] text-green-600" />
+        icon: <LuSoup className="w-[50px] h-[50px] text-green-600" />
     },
      {
         id:4,
         name:'Pasta',
-        icon: <CiBowlNoodles className="w-[60px] h-[60px] text-green-600" />
+        icon: <CiBowlNoodles className="w-[50px] h-[50px] text-green-600" />
 
     },
      {
         id:5,
         name:'Main_course',
-        icon: <MdFoodBank className="w-[60px] h-[60px] text-green-600" />
+        icon: <MdFoodBank className="w-[50px] h-[50px] text-green-600" />
     },
      {
         id:6,
         name:'Pizza',
-        icon: <GiFullPizza className="w-[60px] h-[60px] text-green-600" />
+        icon: <GiFullPizza className="w-[50px] h-[50px] text-green-600" />
     },
      {
         id:7,
         name:'Burger',
-        icon: <GiHamburger className="w-[60px] h-[60px] text-green-600" />
+        icon: <GiHamburger className="w-[50px] h-[50px] text-green-600" />
     },
 ]
 
